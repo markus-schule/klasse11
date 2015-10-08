@@ -29,7 +29,7 @@ $ mkdir mein-ordner
 
 Mit `ls` kann das Verzeichnis angezeigt werden
 
-```r
+```
 $ ls
 ```
 
