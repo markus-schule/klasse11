@@ -7,7 +7,7 @@ In der Unix-Shell kann man Kommandos eintippen, die vom Computer ausgeführt wer
 
 ### Dateien und Ordner auflisten
 
-```
+```bash
 $ ls [Enter]
 ```
 
