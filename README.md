@@ -7,7 +7,7 @@ In der Unix-Shell kann man Kommandos eintippen, die vom Computer ausgeführt wer
 
 ### Dateien und Ordner auflisten
 
-```bash
+```
 $ ls [Enter]
 ```
 
@@ -50,14 +50,14 @@ $ pwd
 
 ### Zusammenfassung
 
-ls				|			list files and directories
-ls -a			|			list all files and directories
-mkdir			|			make a directory
-cd directory	|			change to named directory
-cd				|			change to home directory
-cd ~			|			change to home directory
-cd ..			|			change to parent directory
-pwd				|			display the path of the current directory
+|ls				|			list files and directories			|
+|ls -a			|			list all files and directories			|
+|mkdir			|			make a directory			|
+|cd `directory`	|			change to named directory			|
+|cd				|			change to home directory			|
+|cd ~			|			change to home directory			|
+|cd ..			|			change to parent directory			|
+|pwd			|			display the path of the current directory			|
 
 
 ## Dateien 
@@ -81,5 +81,19 @@ $ rm file1
 $ rmdir mein-ordner
 ```
 ### Dateien anzeigen
+```
+$ clear
+```
 
 
+```
+$ less
+```
+
+```
+$ head
+```
+
+```
+$ tail
+```
