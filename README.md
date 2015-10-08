@@ -2,6 +2,7 @@
 
 ## Shell öffnen
 In der Unix-Shell kann man Kommandos eintippen, die vom Computer ausgeführt werden. Die Shell ist `case-sensitive`. Das bedeutet, dass zwischen Groß-und Kleinschreibung unterschieden wird.
+
 **Beispiel**: `Liste ≠ liste`
 
 Kommandos in der Shell starten immer mit dem Prompt-Zeichen `$`.
@@ -11,7 +12,7 @@ Kommandos in der Shell starten immer mit dem Prompt-Zeichen `$`.
 ### Dateien und Verzeichnis auflisten
 `ls` (list) listet Dateien im aktuellen Arbeitsverzeichnis auf
 ```
-$ ls [Enter]
+$ ls
 ```
 
 ```
@@ -28,7 +29,7 @@ $ mkdir mein-ordner
 
 Mit `ls` kann das Verzeichnis angezeigt werden
 
-```
+```r
 $ ls
 ```
 
@@ -106,13 +107,13 @@ $ mv ha.txt mathe/ha.txt
 ```
 
 ### Dateien und Verzeichnis löschen
-`rm (remove)` löscht Dateien vom System
+`rm` (remove) löscht Dateien vom System
 
 ```
 $ rm hausaufgaben.txt
 ```
 
-`rmdir (remove directory)` löscht Verzeichnisse vom System
+`rmdir` (remove directory) löscht Verzeichnisse vom System
 ```
 $ rmdir mathe-ordner
 ```
