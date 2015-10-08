@@ -50,14 +50,14 @@ $ pwd
 
 ### Zusammenfassung
 
-|ls				|			list files and directories			|
-|ls -a			|			list all files and directories			|
-|mkdir			|			make a directory			|
-|cd `directory`	|			change to named directory			|
-|cd				|			change to home directory			|
-|cd ~			|			change to home directory			|
-|cd ..			|			change to parent directory			|
-|pwd			|			display the path of the current directory			|
+| ls				|			list files and directories			|
+| ls -a			|			list all files and directories			|
+| mkdir			|			make a directory			|
+| cd `directory`	|			change to named directory			|
+| cd				|			change to home directory			|
+| cd ~			|			change to home directory			|
+| cd ..			|			change to parent directory			|
+| pwd			|			display the path of the current directory			|
 
 
 ## Dateien 
