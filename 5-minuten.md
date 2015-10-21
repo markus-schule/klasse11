@@ -9,4 +9,4 @@ Diese Liste wird im Laufe des Schuljahres aktualisiert.
 | Coursera     | Kostenlose Onlinekurse           | https://www.coursera.org/    |
 | Udacity      | Kostenlose Onlinekurse           | https://www.udacity.com/     |
 | WolframAlpha | Wissensdatenbank, Online-Rechner | http://www.wolframalpha.com/ |
-|              |                                  |                              |
+| PhotoMath    | Smart camera calculator          | https://photomath.net/en/    |
