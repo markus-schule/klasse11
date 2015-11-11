@@ -11,4 +11,12 @@ Diese Liste wird im Laufe des Schuljahres aktualisiert.
 | WolframAlpha | Wissensdatenbank, Online-Rechner       | http://www.wolframalpha.com/ |
 | PhotoMath    | Smart camera calculator                | https://photomath.net/en/    |
 | Codeacademy  | Learn to code interactively, for free. | https://www.codecademy.com/  |
+| Quora        | The best answer to any question        | https://www.quora.com/       |
+
+
+Hier sind andere Links, die wir im Unterricht besprechen.
+
+| Link         | Beschreibung                           | Link                         |
+| ------------ | --------------------------------       | ---------------------------- |
+| Luther       | Martin Luther und die Reformation      | https://youtu.be/B7hTlzrtVRY |
 
