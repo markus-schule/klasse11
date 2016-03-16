@@ -22,4 +22,6 @@ Hier sind andere Links, die wir im Unterricht besprechen.
 | Time Flies   | Lifetime Visualisierung                | http://maximiliankiener.com/digitalprojects/time/index.html |
 | Languages    | Sprachen in der Welt Visualisierung    | http://www.puffpuffproject.com/languages.html |
 | Wahrnehmung  | Invisible Gorilla                      | https://www.youtube.com/watch?v=vJG698U2Mvo |
-
+| Skateboards  | Bureo Skateboard                       | http://www.bureoskateboards.com |
+| Kunststoff aus Pilzen  | Kunststoff aus Pilzen        | https://www.youtube.com/watch?v=zmDENxTPn8Q |
+| Bye bye plastic bags  |       no more plastic         | https://www.youtube.com/watch?v=P8GCjrDWWUM |
