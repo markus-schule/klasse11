@@ -46,3 +46,20 @@ https://en.wikibooks.org/wiki/LaTeX/List_Structures
 
 # # Beispiel 3: Fußnoten
 https://en.wikibooks.org/wiki/LaTeX/Footnotes_and_Margin_Notes
+
+
+```latex
+\documentclass{article}
+\title{Bald ist Ostern}
+\author{Hans-Martin Ramsl}
+\date{Maerz 2016}
+\begin{document}
+   \maketitle
+   Dies ist ein Beispiel mit Fußnote.
+   
+   
+   Creating a footnote is easy.\footnote{An example footnote.}
+   
+\end{document}
+```
+
