@@ -56,10 +56,10 @@ https://en.wikibooks.org/wiki/LaTeX/Footnotes_and_Margin_Notes
 \begin{document}
    \maketitle
    Dies ist ein Beispiel mit Fußnote.
-   
-   
-   Creating a footnote is easy.\footnote{An example footnote.}
-   
+
+
+   Wer das liest, ist sehr intelligent \footnote{Oder weiß, wie Fußnoten funktionieren.}
+
 \end{document}
 ```
 
